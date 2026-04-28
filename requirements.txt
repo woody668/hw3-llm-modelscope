@@ -1,0 +1,11 @@
+torch
+transformers==4.33.3
+modelscope
+sentencepiece
+tiktoken
+einops
+transformers_stream_generator
+accelerate
+protobuf
+tqdm
+huggingface-hub
