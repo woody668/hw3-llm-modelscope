@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.cache/
+*.log
+
+Qwen-7B-Chat/
+chatglm3-6b/
+Baichuan2-7B-Chat/
+Baichuan2-7B-Chat-4bits/
+/mnt/data/
