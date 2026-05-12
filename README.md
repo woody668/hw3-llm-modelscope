@@ -14,7 +14,7 @@
 4. 使用同一组 5 个中文语义理解问题进行测试。
 5. 保存每个模型的终端输出和运行截图，并进行横向对比分析。
 
-说明：课程参考资料中提供了 Intel Extension for Transformers / Neural Chat 的 chatbot 搭建流程，但本仓库实际实验路线是 CPU 环境下的本地模型推理，没有声称完成 INT4 量化或完整 chatbot 服务。
+说明：课程参考资料中提供了 Intel Extension for Transformers / Neural Chat 的 chatbot 搭建流程。本实验未采用 INT4 量化方案，而是使用 `transformers` 在 CPU 环境中直接加载模型进行问答推理。
 
 ## 环境信息
 
